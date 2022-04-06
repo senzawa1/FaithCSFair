@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "232404846142",
+    "firebase_url": "https://csfair-6b860-default-rtdb.firebaseio.com",
+    "project_id": "csfair-6b860",
+    "storage_bucket": "csfair-6b860.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232404846142:android:a30e3227a1ed0d6883f36f",
+        "android_client_info": {
+          "package_name": "com.example.faithcsfair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232404846142-he55bt695nmb0i1f3clp5tfs9msj1jjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpEzKoqEKU4-Pf4HNpmondkgpNvptxAJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232404846142-he55bt695nmb0i1f3clp5tfs9msj1jjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
